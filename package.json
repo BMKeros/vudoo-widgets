@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/BMKeros/vudoo-widgets/issues"
   },
-  "homepage": "https://github.com/BMKeros/vudoo-widgets#readme"
+  "homepage": "https://github.com/BMKeros/vudoo-widgets#readme",
+  "dependencies": {
+    "odoo-webkit": "^1.0.5"
+  }
 }
