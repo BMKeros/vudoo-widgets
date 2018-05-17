@@ -1,0 +1,26 @@
+{
+  "name": "vudoo-widgets",
+  "version": "1.0.0",
+  "description": "Widgets for use in website odoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BMKeros/vudoo-widgets.git"
+  },
+  "keywords": [
+    "vue",
+    "vudoo",
+    "odoo",
+    "website",
+    "components"
+  ],
+  "author": "Israel Lugo <hostelix>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BMKeros/vudoo-widgets/issues"
+  },
+  "homepage": "https://github.com/BMKeros/vudoo-widgets#readme"
+}
